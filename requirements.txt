@@ -1,0 +1,6 @@
+numpy
+typing_extensions
+matplotlib
+openpyxl
+scipy
+
