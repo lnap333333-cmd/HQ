@@ -1,0 +1,57 @@
+{
+  "archive_size": 24,
+  "contribution_rate": {
+    "hho": 1.0
+  },
+  "marginal_contribution": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "marginal_contribution_rate": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "assist_marginal_contribution": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "assist_marginal_contribution_rate": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "total_marginal_contribution": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "total_marginal_contribution_rate": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "blended_marginal_contribution": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "blended_marginal_contribution_rate": {
+    "nsga": 0.0,
+    "moead": 0.0,
+    "hho": 0.0,
+    "ig": 0.0
+  },
+  "mode_counts": null,
+  "operator_counts": null,
+  "operator_success": null
+}

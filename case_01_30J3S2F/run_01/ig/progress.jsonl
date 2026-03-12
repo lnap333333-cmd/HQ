@@ -1,0 +1,5 @@
+{"step": 0, "fe": 25, "archive_size": 7, "hv": 6099645370766.5, "cv": 0.20975713658633147, "mode": "single"}
+{"step": 20, "fe": 525, "archive_size": 9, "hv": 8689365069330.0, "cv": 2.1386258034958936, "mode": "single"}
+{"step": 40, "fe": 1025, "archive_size": 27, "hv": 26200939337256.0, "cv": 4.590592690692179, "mode": "single"}
+{"step": 60, "fe": 1525, "archive_size": 46, "hv": 44703163426100.0, "cv": 6.7082039324993685, "mode": "single"}
+{"step": 80, "fe": 2025, "archive_size": 100, "hv": 97307610828850.0, "cv": 7.03126740681858, "mode": "single"}
