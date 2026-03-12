@@ -1,0 +1,73 @@
+{
+  "archive_size": 186,
+  "contribution_rate": {
+    "ig": 0.7741935483870968,
+    "nsga": 0.16666666666666666,
+    "moead": 0.05913978494623656
+  },
+  "marginal_contribution": {
+    "nsga": 0.05001030878493026,
+    "moead": 0.017745593439813964,
+    "hho": 0.0,
+    "ig": 0.2322440977752558
+  },
+  "marginal_contribution_rate": {
+    "nsga": 0.16670102928310085,
+    "moead": 0.0591519781327132,
+    "hho": 0.0,
+    "ig": 0.7741469925841858
+  },
+  "assist_marginal_contribution": {
+    "nsga": 5.466827876521574,
+    "moead": 5.191801754749002,
+    "hho": 5.393509863681334,
+    "ig": 5.296072904513054
+  },
+  "assist_marginal_contribution_rate": {
+    "nsga": 0.256078952852211,
+    "moead": 0.24319608862796965,
+    "hho": 0.25264456633458027,
+    "ig": 0.2480803921852392
+  },
+  "total_marginal_contribution": {
+    "nsga": 5.516838185306504,
+    "moead": 5.209547348188816,
+    "hho": 5.393509863681334,
+    "ig": 5.52831700228831
+  },
+  "total_marginal_contribution_rate": {
+    "nsga": 0.2548403574164328,
+    "moead": 0.2406456132293662,
+    "hho": 0.24914342875786982,
+    "ig": 0.2553706005963311
+  },
+  "blended_marginal_contribution": {
+    "nsga": 2.48757821426642,
+    "moead": 2.3460708660289487,
+    "hho": 2.4270794386566004,
+    "ig": 2.5109670608072654
+  },
+  "blended_marginal_contribution_rate": {
+    "nsga": 0.2069210948892004,
+    "moead": 0.1419718278555786,
+    "hho": 0.11369005485056112,
+    "ig": 0.5374170224046599
+  },
+  "mode_counts": {
+    "independent": 12,
+    "cooperation": 78,
+    "competition": 10
+  },
+  "operator_counts": {
+    "c1_elite_migration": 94,
+    "c2_rhythm_coop": 374,
+    "r1_struct_suppress": 7,
+    "r2_territorial_invade": 53
+  },
+  "operator_success": {
+    "c1_elite_migration": 49,
+    "c2_rhythm_coop": 161,
+    "r1_struct_suppress": 5,
+    "r2_territorial_invade": 15
+  }
+}
